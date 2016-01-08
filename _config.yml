@@ -1,7 +1,7 @@
 name: DavidDerwin
 favicon: null
-layout_spectrum: 0.670120598282665
-typography_spectrum: 0.2453595942351967
+layout_spectrum: 0.49793
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.39557105069980025
-  lightness: 0.29795890441164374
-  saturation: 0.7036606781184673
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.04503129166550934
 purpose: []
